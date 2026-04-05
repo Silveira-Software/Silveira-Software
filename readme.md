@@ -1,117 +1,142 @@
-# 👨‍💻 Carlos Eduardo (Silveira Software)
-**Senior Full Stack Developer • Automação • iGaming • Fintech • Growth Engineering**  
-São Paulo, SP – Brasil  
-📞 +55 11 94519-3805  
-📧 dzk.falecomigo@gmail.com  
-🌎 Portfólio: https://silveirasoftware.liberar.site
+```markdown
+# 👨‍💻 Carlos Eduardo — Silveira Software
 
-> **"O que limita nossos sistemas — e o que podemos construir — é só a criatividade."**
+**Arquiteto de Sistemas • Full Stack • Automação • Fintech • iGaming • Growth Engineering**
 
----
+São Paulo, Brasil
+📞 +55 11 94519-3805
+📧 dzk.falecomigo@gmail.com
+🌎 [silveira-software.vercel.app](https://silveira-software.vercel.app)
 
-## 🚀 Sobre mim
-
-Sou **Desenvolvedor Full Stack** e **Fundador da Silveira Software**, atuando há mais de **8 anos** na construção de sistemas complexos “**do zero ao scale**”. Minha especialidade é unir:
-
-- Engenharia de Software  
-- arquitetura e infraestrutura  
-- automação inteligente  
-- growth e dados  
-- visão estratégica de negócios  
-
-Trabalho com foco em **performance, automação e escalabilidade**, principalmente para:
-
-- **Fintechs** (Gateways de Pagamento)  
-- **iGaming** (Plataformas de Apostas Legalizadas)  
-- **SaaS e sistemas empresariais**  
-- **Server-Side Tracking e APIs de Conversão**  
-- **Automação avançada com N8N**
-
-Minha abordagem une código + negócios. Não construo apenas sistemas; **construo soluções que geram dinheiro e eliminam atrito operacional**.
+> "Se o sistema não escala, não serve. Se não gera dinheiro, não faz sentido."
 
 ---
 
-## 🧰 Tech Stack & Competências
+## ⚡ Quem sou eu (sem enrolação)
 
-### **Linguagens**
-- PHP (Moderno & Legacy)
-- JavaScript (ES6+)
-- Node.js  
-- React.js  
-- HTML5, CSS3  
-- SQL  
-- MongoDB (NoSQL)
+Sou desenvolvedor e arquiteto de sistemas com mais de 8 anos construindo operações que funcionam de verdade. Não sou de fazer MVP bonitinho pra inglês ver, mas sim sistemas que:
 
-### **Infra & DevOps**
+- Processam dinheiro sem falhar.
+- Aguentam carga pesada sem suar.
+- Integram com tudo que precisa, sem gambiarra.
+- Rodam sem dar dor de cabeça, dia e noite.
+
+Eu entro onde a maioria trava:
+
+- Sistemas quebrando em produção.
+- Automações que viraram um inferno.
+- Arquitetura que não aguenta o tranco.
+- Operações cheias de fricção e custo.
+
+Minha missão é resolver isso de uma vez por todas.
+
+---
+
+## 🧠 O que eu realmente faço
+
+Não sou só "full stack". Eu construo a infra, o backend, a automação e a lógica de negócio, tudo integrado. Tipo:
+
+- **Gateways de pagamento:** Com antifraude, fallback e retry pra não perder uma venda.
+- **Plataformas iGaming completas:** Compliance, financeiro e integração com os melhores provedores.
+- **Sistemas de aquisição e conversão:** Tracking preciso, eventos e funis otimizados.
+- **Máquinas de automação:** N8N no talo, CRM, disparos e pipelines que rodam sozinhos.
+- **Sistemas operacionais internos:** Painéis, filas e orquestração pra sua equipe focar no que importa.
+
+👉 Em resumo: Transformo operação manual em sistema escalável e lucrativo.
+
+---
+
+## 🧰 Stack (o que eu uso na prática)
+
+**Backend pesado**
+- Node.js
+- PHP (sim, inclusive legado — e eu conserto)
+- APIs REST / Webhooks
+- WebSockets
+
+**Dados**
+- MySQL / Postgres
+- MongoDB
+- Modelagem orientada a performance
+
+**Front**
+- React.js
+- JS moderno
+- UI funcional (sem firula inútil)
+
+**Infra**
 - AWS (EC2, S3, RDS)
-- Docker  
-- Linux Server  
-- WebSockets  
-- Webhooks  
+- Docker
+- Linux (raiz mesmo, não painelzinho)
 
-### **Automação & Integração**
-- **N8N (Especialista)**  
-- APIs REST  
-- Integração com Gateways  
-- WhatsApp API  
+**Automação**
+- N8N (nível hardcore)
 - RPA
+- Integrações complexas
 
-### **Growth & Inteligência de Dados**
-- Server-Side Tracking  
-- API de Conversões (Meta / TikTok)  
-- Análise de Dados de Tráfego  
-- SEO Técnico
-
----
-
-## 🏆 Projetos de Destaque
-
-### 💳 **CremePay – Gateway de Pagamentos**
-Sistema completo de intermediação financeira, com API, Dashboard, antifraude e integrações.
-
-### 🎰 **iGaming Legalizado – Plataformas White-Label**
-Arquitetura para operações de apostas adequadas ao novo marco regulatório brasileiro.
-
-### ⚙️ **Automação Avançada com N8N**
-Fluxos inteligentes para CRMs, pós-venda, funis e integrações complexas entre sistemas.
-
-### 📡 **FunilQIC Tracking**
-Ferramenta própria de rastreamento avançado (SS Tracking + Eventos + APIs).
-
-### 🛒 **NatLiving – E-commerce**
-E-commerce otimizado com integrações personalizadas e automações de operação.
+**Growth / Tracking**
+- Server-Side Tracking
+- Meta / TikTok API
+- Eventos, funil, atribuição
 
 ---
 
-## 🧠 Filosofia de Trabalho
+## 🏗️ Sistemas que já construí
 
-✔ **Tecnologia como motor de negócios**  
-✔ **Automação para escalar, não para remendar**  
-✔ **Código limpo, robusto e voltado a performance**  
-✔ **Criatividade acima de burocracia**  
-✔ **Soluções que resolvem problemas reais**
+- 💳 **CremePay — Gateway de Pagamento:** Processamento, antifraude, API própria e integração com múltiplos serviços.
+- 🎰 **Plataformas de Apostas (iGaming):** Arquitetura completa, gestão de usuários, fluxo financeiro e integração com provedores.
+- ⚙️ **Lead Machine + Automação:** Geração e enriquecimento de leads, criação automática de sites e pipelines completos com CRM integrado.
+- 📡 **Tracking & Dados (FunilQIC):** Server-side tracking, eventos de conversão e análise de performance para plataformas de ads.
+- 📲 **Sistemas de Disparo:** WhatsApp, SMS, Email com orquestração de campanhas.
+- 🔐 **Segurança / KYC:** Validação de usuários, antifraude e fluxo de verificação.
 
 ---
 
-## 📈 Em que posso ajudar empresas?
+## 🧠 Como eu penso
 
-- Construção de **sistemas completos** (SaaS, fintech, games, automação)  
-- Arquitetura de **infra AWS** com escalabilidade  
-- Criação de **APIs, websockets e integrações complexas**  
-- **Automação avançada** com N8N  
-- Implementação de **Server-Side Tracking**  
-- Otimização de processos e redução de custos operacionais  
-- Consultoria técnica para projetos de alto impacto
+- Sistema bom é o que roda em produção sem você precisar ficar olhando.
+- Automação é pra eliminar operação humana, não pra criar mais trabalho.
+- Código bonito não paga conta — sistema funcionando e gerando resultado, sim.
+- Simplicidade escalável > arquitetura "genial" que ninguém entende.
+- Se não aguenta escala, já nasceu errado.
+
+---
+
+## 📈 Onde eu entro
+
+Eu resolvo:
+
+- Sistema lento ou quebrando.
+- Backend mal estruturado.
+- Automação bagunçada.
+- Integração que não funciona direito.
+- Operação que depende demais de gente.
+
+Ou construo do zero:
+
+- SaaS
+- Fintech
+- Sistema interno
+- Automação completa
+- Infra escalável
 
 ---
 
 ## 📬 Contato
 
-📧 **E-mail:** dzk.falecomigo@gmail.com  
-📞 **WhatsApp:** +55 11 94519-3805  
-🌎 **Portfólio:** https://silveirasoftware.liberar.site
+📧 dzk.falecomigo@gmail.com
+📞 +55 11 94519-3805
+🌎 [silveira-software.vercel.app](https://silveira-software.vercel.app)
 
 ---
 
-### ⭐ Se você chegou até aqui, considere deixar uma estrela em algum projeto!  
-Construo sistemas pensando em **crescimento, performance e criatividade** — e estou sempre aberto a novos desafios.
+⚠️ **Se você chegou até aqui:**
+
+Você provavelmente tem um sistema que:
+
+- Pode escalar mais.
+- Pode converter mais.
+- Ou está mais complicado do que deveria.
+
+Eu resolvo isso. E faço direito.
+```
