@@ -1,4 +1,3 @@
-```markdown
 # 👨‍💻 Carlos Eduardo — Silveira Software
 
 **Arquiteto de Sistemas • Full Stack • Automação • Fintech • iGaming • Growth Engineering**
