@@ -1,13 +1,20 @@
-# 👨‍💻 Carlos Eduardo — Silveira Software
+<div align="center">
+
+<img src="assets/banner.svg" alt="Silveira Software — Full Stack, Automação, Fintech, IA" width="100%" />
+
+### Carlos Eduardo Silveira
 
 **Arquiteto de Sistemas • Full Stack • Automação • Fintech • iGaming • Growth Engineering**
 
-São Paulo, Brasil
-📞 +55 11 94519-3805
-📧 dzk.falecomigo@gmail.com
-🌎 [silveira-software.vercel.app](https://silveira-software.vercel.app)
+[![Site](https://img.shields.io/badge/silveira--software.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://silveira-software.vercel.app)
+[![Email](https://img.shields.io/badge/E--mail-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzk.falecomigo@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511945193805)
 
-> "Se o sistema não escala, não serve. Se não gera dinheiro, não faz sentido."
+📍 São Paulo, Brasil
+
+> **"Se o sistema não escala, não serve. Se não gera dinheiro, não faz sentido."**
+
+</div>
 
 ---
 
@@ -138,4 +145,3 @@ Você provavelmente tem um sistema que:
 - Ou está mais complicado do que deveria.
 
 Eu resolvo isso. E faço direito.
-```
