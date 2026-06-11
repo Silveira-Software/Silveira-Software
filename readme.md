@@ -8,7 +8,7 @@
 
 [![Site](https://img.shields.io/badge/silveira--software.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://silveira-software.vercel.app)
 [![Email](https://img.shields.io/badge/E--mail-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzk.falecomigo@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511945193805)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511946317129)
 
 **`8+ anos`** de estrada &nbsp;•&nbsp; **`24+ sistemas`** próprios &nbsp;•&nbsp; **`12+ sites`** de clientes &nbsp;•&nbsp; **`98%`** de aprovação em pagamentos
 
@@ -163,10 +163,10 @@ Você provavelmente tem um sistema que **pode escalar mais**, **pode converter m
 
 **Eu resolvo isso. E faço direito.**
 
-[![WhatsApp](https://img.shields.io/badge/Chama_no_WhatsApp-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511945193805)
+[![WhatsApp](https://img.shields.io/badge/Chama_no_WhatsApp-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511946317129)
 [![Email](https://img.shields.io/badge/Manda_um_E--mail-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzk.falecomigo@gmail.com)
 [![Site](https://img.shields.io/badge/Visita_o_Site-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://silveira-software.vercel.app)
 
-📞 +55 11 94519-3805 &nbsp;·&nbsp; 📧 dzk.falecomigo@gmail.com &nbsp;·&nbsp; 📍 São Paulo, Brasil
+📞 +55 11 94631-7129 &nbsp;·&nbsp; 📧 dzk.falecomigo@gmail.com &nbsp;·&nbsp; 📍 São Paulo, Brasil
 
 </div>
